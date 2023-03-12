@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>https://github.com/gregdelozier/information-security/blob/main/README.md</string>
+	<string>https://github.com/gregdelozier/information-security/blob/main/bottle_app.py</string>
 </dict>
 </plist>
